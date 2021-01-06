@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "advent-of-code", "advent-of-code.fsproj", "{20F6B9A9-B219-40B6-A744-3FE8E327B886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F6B9A9-B219-40B6-A744-3FE8E327B886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F6B9A9-B219-40B6-A744-3FE8E327B886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F6B9A9-B219-40B6-A744-3FE8E327B886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F6B9A9-B219-40B6-A744-3FE8E327B886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B6812B-D63C-4AF5-AE71-9AA96686ADC0}
+	EndGlobalSection
+EndGlobal
