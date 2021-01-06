@@ -1,6 +1,5 @@
 ﻿module AdventOfCode.DayTwo
 
-open System
 open Utils
 
 let main =
@@ -21,10 +20,7 @@ let main =
 
             let newStr = String.filter (fun c -> c = char) str
 
-            if newStr.Length >= leftCount && newStr.Length <= rightCount then
-                true
-            else
-                false
+            newStr.Length >= leftCount && newStr.Length <= rightCount
         else
             false
     )
